@@ -1,1 +1,1 @@
-# TXON_3
+TO-DO List app by using basic HTML, CSS & JavaScript
